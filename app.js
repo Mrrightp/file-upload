@@ -15,7 +15,7 @@ cloudinary.config({
 // database
 const connectDB = require('./db/connect');
 
-// product router
+// product rout
 const productRouter = require('./routes/productRoutes');
 
 // error handler
